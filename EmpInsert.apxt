@@ -11,3 +11,4 @@ trigger EmpInsert on Employee__c (before insert) {
      	} 
 
     }
+}
